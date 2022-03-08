@@ -1,4 +1,9 @@
 {
+    "name": "web4cstj/projet",
+    "description": "Un projet PHP de base.",
+    "require": {
+        "php": ">=7.4"
+    },
     "autoload": {
         "psr-4": {
             "App\\": "app/"
