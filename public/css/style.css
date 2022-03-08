@@ -1,1 +1,14 @@
-/*# sourceMappingURL=style.css.map */
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+}
+
+.interface {
+  min-height: 100%;
+  display: grid;
+  grid-template-columns: -webkit-min-content 1fr -webkit-min-content;
+  grid-template-columns: min-content 1fr min-content;
+}/*# sourceMappingURL=style.css.map */
